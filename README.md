@@ -7,11 +7,11 @@ A Hospital Management System built using C++, designed to streamline hospital op
 - Billing System: Generate and manage invoices for treatments.
 - Medical History Tracking: Store patient history for future reference.
 - File Handling: Persistent storage of hospital records.
-#Technologies Used
+# Technologies Used
 - Programming Language: C++
 - File Handling: Used for data storage
 - Object-Oriented Programming: Applied for structuring the system
-#Prerequisites:
+# Prerequisites:
 - A C++ compiler (G++/Clang/MSVC)
 - Terminal or command prompt
 
